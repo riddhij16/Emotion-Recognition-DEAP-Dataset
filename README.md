@@ -1,1 +1,1 @@
-# Emotion-Recognition-DEAP-Dataset
+# Emotion-Recognition-DEAP Dataset
